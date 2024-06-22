@@ -1,7 +1,7 @@
 ### Hola Que Tal 👋
 **Soy Mario Martinez Aguilar soy egresado de la carrera en Ing.Ti's.**  
 
-*Me gusta el Desarrollo Web y aprender las tecnologías para su elavoración.*
+*Me gusta el Desarrollo Web y aprender las tecnologías para su elaboración.*
 
 <!--
 **MarioMartinezAguilar/MarioMartinezAguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
