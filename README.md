@@ -1,5 +1,5 @@
 ### Hola Que Tal 👋
-**Soy Mario Martinez Aguilar soy egresado de la carrera en Ing.Ti's.**  
+**Soy Mario Martinez Aguilar soy egresado de la carrera en Ing.Tic's.**  
 
 *Me gusta el Desarrollo Web y aprender las tecnologías para su elaboración.*
 
