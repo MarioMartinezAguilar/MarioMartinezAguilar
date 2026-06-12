@@ -1,4 +1,4 @@
-# 👋 Hola, soy Mario Martinez Aguilar
+# 👋 Hola, soy Mario Martínez Aguilar
 
 🎓 Egresado de Ingeniería en Tecnologías de la Información y Comunicación.
 
