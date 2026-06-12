@@ -4,6 +4,7 @@
 
 💻 Desarrollador Web Full Stack apasionado por el desarrollo de aplicaciones web modernas, escalables y orientadas a resolver problemas reales.
 
+🚀 He desarrollado proyectos Full Stack utilizando diversas tecnologías y frameworks para frontend, backend, bases de datos y desarrollo de APIs REST.
 
 🔧 Me interesa el desarrollo de APIs REST, la arquitectura de software, la integración entre frontend y backend, la visualización de datos y la construcción de soluciones completas de extremo a extremo.
 
